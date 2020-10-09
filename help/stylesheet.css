@@ -1,0 +1,26 @@
+body{
+    background-color: #808080;
+   
+}
+h1{
+    color: #000000;
+    text-shadow: blueviolet 5px;
+    text-align: center;
+    height: 80px;
+    background-color: brown;
+    padding-top: 30px;
+    border: dotted black 5px;
+}
+#navbar ul {
+    height: 50px;
+    background-color: #ffffff;
+    text-align: center;
+   
+   margin: 10px;
+    padding: 5px;
+    list-style-type: none;
+
+}
+#navbar li {
+    display: inline;
+}
